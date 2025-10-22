@@ -1,14 +1,27 @@
+<p align="center" ><img  src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 100px></p>
 <h1 align="center">Hi 👋, I'm Keshan Jayaweera</h1>
 <h3 align="center">IT Student | Passionate about Web Development</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=keshandinith4&label=Profile%20views&color=0e75b6&style=flat" alt="keshandinith4" /> </p>
 
-- 🔭 I’m currently studying on **Saegis Campus**
+<table align="center">
+<tr border="none">
+<td width="50%" align="left">
+
+- 🧑‍🎓 I’m an Undergraduate at **Saegis Campus**
 
 - 🌱 I’m currently learning **MERN**
 
 - 📫 How to reach me **keshandinith4@gmail.com**
----
+
+- ⚡ Fun fact **Call me as Kesh**
+
+</td>
+<td width="50%" align="center">
+  <img align="center" alt="Coding" width="450" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
+  </td>
+</tr>
+</table>
 <!-- Connect with me -->
 <!--h2 without bottom border-->
 <div id="user-content-toc">
@@ -36,6 +49,7 @@
     <img src="https://skillicons.dev/icons?i=git,aws,css,discord,figma,github,html,java,js,mongodb,mysql,nodejs,postman,py,react,tailwind,vscode,photoshop,autocad,illustrator" />
   </a>
 </p>
+
 
 <!--- stats & Trophy (start) -->
 <p align="center">
