@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Keshan Jayaweera</h1>
 <h3 align="center">A passionate Web Developer from Sri Lanka</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=keshandinith4&label=Profile%20views&color=0e75b6&style=flat" alt="keshandinith4" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=keshandinith4&label=Profile%20views&color=0e75b6&style=flat" alt="keshandinith4" /> </p>
 
 - 🔭 I’m currently studying on **Saegis Campus**
 
