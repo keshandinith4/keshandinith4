@@ -3,11 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=keshandinith4&label=Profile%20views&color=0e75b6&style=flat" alt="keshandinith4" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=keshandinith4" alt="keshandinith4" /></a> </p>
-
 - 🔭 I’m currently studying on **Saegis Campus**
 
-- 🌱 I’m currently learning **MERN | .NET Core**
+- 🌱 I’m currently learning **MERN**
 
 - 📫 How to reach me **keshandinith4@gmail.com**
 
