@@ -54,9 +54,6 @@
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" alt="css" width="50" height="50"/>
   </a>
-  <a href="https://discord.com/" target="_blank" rel="noreferrer">
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Discord.svg" alt="discord" width="50" height="50"/>
-  </a>
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Figma-Light.svg" alt="figma" width="50" height="50"/>
   </a>
