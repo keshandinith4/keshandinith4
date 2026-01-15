@@ -36,7 +36,7 @@
     <img src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" height="50" width="50" />
   </a>
   <a href="mailto:keshandinith4@gmail.com">
-    <img src="https://github.com/user-attachments/assets/4a092107-3d26-418e-a212-294dc5f4ba64" height="50" width="50" />
+    <img src="https://img.icons8.com/?size=100&id=P7UIlhbpWzZm&format=png&color=000000" height="50" width="50" />
   </a>
 </p>
 
