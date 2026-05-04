@@ -1,6 +1,6 @@
 <p align="center" ><img  src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 100px></p>
 <h1 align="center">Hi, I'm Keshan Jayaweera</h1>
-<h3 align="center">IT Student | Passionate about Web Development</h3>
+<h3 align="center">Software Engineer | Passionate about MERN</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=keshandinith4&label=Profile%20views&color=0e75b6&style=flat" alt="keshandinith4" /> </p>
 
@@ -10,7 +10,7 @@
 
 - 🧑‍🎓 I’m an Undergraduate at **Saegis Campus**
 
-- 🌱 I’m currently learning **MERN**
+- 🌱 I’m currently learning **MERN** ,**C#(.NET)**
 
 - 📫 How to reach me **keshandinith4@gmail.com**
 
