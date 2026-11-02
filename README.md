@@ -8,13 +8,13 @@
 <tr border="none">
 <td width="50%" align="left">
 
-- 🧑‍🎓 I’m an Undergraduate at **Saegis Campus**
+- 🧑‍🎓 I’m an Undergraduate at **NSBM GREEN UNIVERCITY**
 
-- 🌱 I’m currently learning **MERN** ,**C#(.NET)**
+- 🌱 I’m currently learning **** ,**C#(.NET)**
 
-- 📫 How to reach me **keshandinith4@gmail.com**
+- 📫 How to reach me **darshananipun4024@gmail.com**
 
-- ⚡ Fun fact **Call me as Kesh**
+- ⚡ Fun fact **Call me as LittleJoni**
 
 </td>
 <td width="50%" align="center">
